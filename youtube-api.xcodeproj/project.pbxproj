@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		99161DB924B24AC100C068DF /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99161DB824B24AC100C068DF /* ConstantsTemplate.swift */; };
+		99161DBB24B25B4500C068DF /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99161DBA24B25B4500C068DF /* Response.swift */; };
 		9970AC2B24B1D8FF00460D0B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9970AC2A24B1D8FF00460D0B /* AppDelegate.swift */; };
 		9970AC2D24B1D8FF00460D0B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9970AC2C24B1D8FF00460D0B /* SceneDelegate.swift */; };
 		9970AC2F24B1D8FF00460D0B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9970AC2E24B1D8FF00460D0B /* ViewController.swift */; };
@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		99161DB824B24AC100C068DF /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
+		99161DBA24B25B4500C068DF /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 		9970AC2724B1D8FF00460D0B /* youtube-api.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "youtube-api.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9970AC2A24B1D8FF00460D0B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9970AC2C24B1D8FF00460D0B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -74,7 +74,7 @@
 				9970AC3E24B1EA2300460D0B /* Constants.swift */,
 				9970AC4024B1EC6E00460D0B /* Video.swift */,
 				9970AC4224B1EDF900460D0B /* Model.swift */,
-				99161DB824B24AC100C068DF /* ConstantsTemplate.swift */,
+				99161DBA24B25B4500C068DF /* Response.swift */,
 			);
 			path = "youtube-api";
 			sourceTree = "<group>";
@@ -150,7 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				99161DB924B24AC100C068DF /* ConstantsTemplate.swift in Sources */,
+				99161DBB24B25B4500C068DF /* Response.swift in Sources */,
 				9970AC2F24B1D8FF00460D0B /* ViewController.swift in Sources */,
 				9970AC2B24B1D8FF00460D0B /* AppDelegate.swift in Sources */,
 				9970AC2D24B1D8FF00460D0B /* SceneDelegate.swift in Sources */,
